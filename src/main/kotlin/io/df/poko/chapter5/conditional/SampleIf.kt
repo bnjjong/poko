@@ -1,4 +1,4 @@
-package io.df.henry.io.df.poko.conditional
+package io.df.henry.io.df.poko.chapter5.conditional
 
 import io.df.henry.io.df.poko.`when`.print
 
